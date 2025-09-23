@@ -1,3 +1,69 @@
 # FATHER-SILVIO-PASQUALI-SCHOOL
 We offer the best
 <!DOCTYPE html> <html lang="en"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Father Silvio Primary School</title> <style> body { margin: 0; font-family: Arial, sans-serif; line-height: 1.6; background: #f9f9f9; } header { background: #2c3e50; color: #fff; padding: 1rem; text-align: center; } header h1 { margin: 0; font-size: 2rem; } header p { margin: 0.3rem 0 0; font-style: italic; } nav { display: flex; justify-content: center; background: #34495e; } nav a { color: #fff; padding: 1rem; text-decoration: none; transition: background 0.3s; } nav a:hover { background: #1abc9c; } section { padding: 2rem; max-width: 900px; margin: auto; } section h2 { color: #2c3e50; margin-bottom: 1rem; } footer { background: #2c3e50; color: #fff; text-align: center; padding: 1rem; margin-top: 2rem; } </style> </head> <body> <header> <h1>Father Silvio Primary School</h1> <p>Motto: Love, Joy and Service</p> </header> <nav> <a href="#home">Home</a> <a href="#about">About Us</a> <a href="#academics">Academics</a> <a href="#admissions">Admissions</a> <a href="#contact">Contact</a> </nav> <section id="home"> <h2>Welcome</h2> <p>Welcome to Father Silvio Primary School, Mafinga - Iringa Region. We are dedicated to providing quality education built on values of love, joy, and service.</p> </section> <section id="about"> <h2>About Us</h2> <p>Founded with a mission to nurture children academically, spiritually, and socially, Father Silvio Primary School is committed to building a strong foundation for lifelong learning.</p> </section> <section id="academics"> <h2>Academics</h2> <p>We offer a broad curriculum that includes Mathematics, Science, English, Kiswahili, Social Studies, and Creative Arts. Our dedicated teachers ensure that every pupil excels.</p> </section> <section id="admissions"> <h2>Admissions</h2> <p>Admission is open for pupils from Pre-Primary to Standard Seven. To apply, please visit our school office in Mafinga or contact us through the details below.</p> </section> <section id="contact"> <h2>Contact Us</h2> <p><strong>Address:</strong> Mafinga, Iringa Region, Tanzania</p> <p><strong>Phone:</strong> +255 XXX XXX XXX</p> <p><strong>Email:</strong> info@fathersilvioschool.ac.tz</p> <p><strong>Working Hours:</strong> Monday - Friday, 8:00 AM - 4:00 PM</p> </section> <footer> <p>&copy; 2025 Father Silvio Primary School. All rights reserved.</p> </footer> </body> </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Upload</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        input[type="file"] {
+            margin: 20px 0;
+        }
+        img {
+            max-width: 400px;
+            margin-top: 20px;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>Upload Your Image</h1>
+    <form id="uploadForm">
+        <input type="file" id="imageInput" accept="image/*">
+        <br>
+        <button type="submit">Upload</button>
+    </form>
+    <img id="preview" src="" alt="Image Preview">
+    
+    <script>
+        const imageInput = document.getElementById('imageInput');
+        const preview = document.getElementById('preview');
+        const uploadForm = document.getElementById('uploadForm');
+
+        // Preview the selected image
+        imageInput.addEventListener('change', () => {
+            const file = imageInput.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    preview.src = e.target.result;
+                    preview.style.display = 'block';
+                }
+                reader.readAsDataURL(file);
+            } else {
+                preview.src = '';
+                preview.style.display = 'none';
+            }
+        });
+
+        // Handle form submission
+        uploadForm.addEventListener('submit', (e) => {
+            e.preventDefault();
+            const file = imageInput.files[0];
+            if (file) {
+                alert(`File "${file.name}" ready for upload!`);
+                // Here you can send the file to your server using fetch or AJAX
+            } else {
+                alert('Please select an image to upload.');
+            }
+        });
+    </script>
+</body>
+</html>
