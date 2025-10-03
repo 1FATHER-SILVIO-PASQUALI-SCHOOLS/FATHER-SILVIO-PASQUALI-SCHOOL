@@ -251,8 +251,8 @@
 
       <section id="contact">
         <h2>Contact</h2>
-        <p>Email: info@fathersilvioschool.ac.tz</p>
-        <p>Phone: +255 74 702 8504</p>
+        <p>Email: frsilviopasquali22@gmail.com</p>
+        <p>Phone: +255 788898096</p>
         <p>Address: Mafinga, Iringa Region, Tanzania</p>
       </section>
     </div>
