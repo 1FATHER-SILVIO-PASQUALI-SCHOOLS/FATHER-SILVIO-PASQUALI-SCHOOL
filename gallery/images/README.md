@@ -1,0 +1,18 @@
+# images folder
+this folder stores all images for this respiratory.
+add your image files here![492844422-d2fb76f0-f554-48cc-a6b4-08eb8cfed6ea](https://github.com/user-attachments/assets/dbe992ef-b60f-4394-b42c-487cd7a2d5ea)
+![492844415-05ea8987-daf3-4975-8733-ddb11f15a280](https://github.com/user-attachments/assets/8bd22a16-ccf6-45f4-b358-bf28ca39c4f9)
+![492844410-e30410b7-ce35-4dba-adb9-fc0094712038](https://github.com/user-attachments/assets/79ea7274-bbd3-42eb-991c-77919434ef8b)
+![492844401-bab1f548-6b1c-43b1-bce7-bb8b3de27b4a](https://github.com/user-attachments/assets/f7ff3291-e318-4113-8756-fe81ae253039)
+![492844397-26d0c371-73c7-4014-94e0-64bb07707ff0](https://github.com/user-attachments/assets/3fc0b250-6bd8-4b41-821d-d5ea85ce23b2)
+![492844390-6f10722f-0a45-4e31-87c4-2c345e0ebc25](https://github.com/user-attachments/assets/ab4ae235-1478-4353-bda1-ecea1e7fb0f9)
+![492844386-607321c3-57b5-423b-bff5-76d4784ad386](https://github.com/user-attachments/assets/024902f1-2abd-4243-864f-ec823a55d329)
+![492844378-705dd54d-dfa7-4c46-ad76-b7180dac6b9f](https://github.com/user-attachments/assets/f561a8da-e657-4d0d-b003-9a1df25454ef)
+![492844373-1e2cf40f-601f-41bb-862f-89bd0db003cb](https://github.com/user-attachments/assets/f8d11d65-0722-4a3a-bab7-bb1ab8431d7d)
+![492844366-0df2ee3b-e749-4b34-bb8e-38de40d76e5a](https://github.com/user-attachments/assets/431e6f66-226b-4064-abee-86aa6bda6053)
+![492844358-e8fe049d-9846-4ee5-a69d-92fc009ccc56](https://github.com/user-attachments/assets/066f0a14-dcb4-4d91-b95c-103f7180e094)
+![492844349-39211b60-cbf9-4506-8ad6-8d488a48852d](https://github.com/user-attachments/assets/022665c4-110b-40e4-bfe9-a2908173526a)
+![492844349-39211b60-cbf9-4506-8ad6-8d488a48852d (1)](https://github.com/user-attachments/assets/4b62897a-7f5e-4328-8bc2-60f97b7c83b9)
+![492844342-86cfa9ab-8737-48e0-aa32-aee801158c2d](https://github.com/user-attachments/assets/12e42e1a-31f3-4869-bd8f-734ef7d9b563)
+![492844329-f07b5436-fd5d-41e0-91e1-76403d27814b](https://github.com/user-attachments/assets/b281e913-d0d1-4e0b-ad16-5396edd0ea5b)
+![492844312-f2acfd04-19ad-4711-a13a-f4a8f015796e](https://github.com/user-attachments/assets/19a1cb81-3a54-4ce1-9370-828cbda9a32b)
