@@ -157,7 +157,8 @@
 <body>
 
   <header>
-    <img src="https://username.github.io/father-silvio-website/image.png" alt="School Logo">
+    <img src="https://username.github.io/father-silvio-website/![System Architecture Diagram](images/diagram.png)
+"School Logo">
     <h1>Father Silvio Pasquali School</h1>
     <p>Motto: Love, Joy, and Service</p>
   </header>
