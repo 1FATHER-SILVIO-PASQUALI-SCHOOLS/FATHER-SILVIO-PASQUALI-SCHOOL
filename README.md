@@ -43,7 +43,7 @@
 
   <section class="features container">
     <div class="feature">
-      <img src="images/classroom.jpg" alt="Classroom with engaged students" />
+      <img src="images/classroom.jpg" alt="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/492844329-f07b5436-fd5d-41e0-91e1-76403d27814b.jpg" />
       <h3>Quality Education</h3>
       <p>Dedicated teachers providing a supportive learning environment for all students.</p>
     </div>
