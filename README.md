@@ -44,3 +44,57 @@
 
   <nav>
     <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#academics">Academics</a></li>
+      <li><a href="#gallery">Gallery</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <main class="container">
+    <section id="home">
+      <h2>Welcome Message</h2>
+      <p>Welcome to <strong>Father Silvio Pre and Primary English Medium School</strong>, where education meets excellence and moral growth. We are dedicated to nurturing pupils with knowledge, discipline, and faith to prepare them for a bright future.</p>
+    </section>
+
+    <section id="about">
+      <h2>About Our School</h2>
+      <p>Father Silvio Pasquali School, located in Mafinga, Iringa Region, Tanzania, continues the legacy of Father Silvio Pasquali — a devoted missionary who believed that true education combines wisdom and service. Our school provides a strong academic foundation and a nurturing environment guided by the values of Love, Joy, and Service.</p>
+    </section>
+
+    <section id="academics">
+      <h2>Academics</h2>
+      <p>We offer a balanced curriculum including English, Mathematics, Science, Social Studies, Kiswahili, and Creative Arts. Our teachers are committed to guiding learners in developing their talents, curiosity, and confidence.</p>
+    </section>
+
+    <section id="gallery">
+      <section id="gallery">
+  <h2>Photo Gallery</h2>
+  <div class="gallery-grid">
+    <div class="gallery-item"><img src="images/gallery/img1.jpg" alt="School view"></div>
+    <div class="gallery-item"><img src="images/gallery/img2.jpg" alt="Pupils in class"></div>
+    <div class="gallery-item"><img src="images/gallery/img3.jpg" alt="Playground"></div>
+    <div class="gallery-item"><img src="images/gallery/img4.jpg" alt="Teachers and students"></div>
+    <div class="gallery-item"><img src="images/gallery/img5.jpg" alt="Science class"></div>
+    <div class="gallery-item"><img src="images/gallery/img6.jpg" alt="Library"></div>
+  </div>
+</section>
+
+
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <p><strong>Address:</strong> Mafinga, Iringa Region, Tanzania</p>
+      <p><strong>Phone:</strong> +255 788 890 96</p>
+      <p><strong>Email:</strong> frsilviopasquali22@gmail.com</p>
+      <p><strong>Working Hours:</strong> Monday – Friday, 8:00 AM – 4:00 PM</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Father Silvio Pre and Primary English Medium School. All rights reserved.</p>
+    <p>Designed with ❤️ by the Father Silvio School Team</p>
+  </footer>
+
+</body>
+</html>
