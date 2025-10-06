@@ -1,69 +1,109 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>FATHER SILVIO PRE AND PRIMARY ENGLISH MEDIUM SCHOOL</title>
-  <meta name="description" content="FATHER SILVIO PRE AND PRIMARY ENGLISH MEDIUM SCHOOL — Love, Joy and Service. Located in Mafinga, Iringa Region, Tanzania." />
   <style>
-  /* ====== STYLES (Combined CSS) ====== */
+    /* ====== STYLES (Combined CSS) ====== */
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html,body { height: 100%; font-family: "Segoe UI", Roboto, Arial, sans-serif; color: #222; background: #f8fbff; line-height: 1.5; }
+    .container { width: 92%; max-width: 1100px; margin: 0 auto; }
+    .site-header { background: linear-gradient(180deg,#0057b8 0%,#004aad 100%); color: #fff; padding: 26px 0; box-shadow: 0 2px 8px rgba(0,0,0,.06); text-align: center; }
+    .site-header h1 { font-size: 1.5rem; letter-spacing: 0.5px; }
+    .motto { margin-top: 8px; font-style: italic; opacity: 0.9; }
 
-  * { box-sizing: border-box; margin: 0; padding: 0; }
-  html,body { height: 100%; font-family: "Segoe UI", Roboto, Arial, sans-serif; color: #222; background: #f8fbff; line-height: 1.5; }
+    .site-nav { background: #003577; position: sticky; top: 0; z-index: 100; }
+    .site-nav ul { list-style: none; display: flex; justify-content: center; flex-wrap: wrap; }
+    .site-nav li { margin: 5px 10px; }
+    .site-nav a { color: white; text-decoration: none; padding: 10px 14px; border-radius: 6px; font-weight: 600; }
+    .site-nav a:hover { background: rgba(255,255,255,0.1); }
 
-  .container { width: 92%; max-width: 1100px; margin: 0 auto; }
-  .skip-link { position: absolute; left: -9999px; top: auto; width: 1px; height: 1px; overflow: hidden; }
-  .skip-link:focus { position: static; width: auto; height: auto; padding: 8px 12px; background: #004aad; color: #fff; border-radius: 4px; }
+    main { padding: 30px 0; }
+    section { background: white; border-radius: 8px; padding: 20px; margin-bottom: 25px; box-shadow: 0 6px 18px rgba(3, 26, 78, 0.04); }
+    section h2 { color: #004aad; border-bottom: 3px solid rgba(0,74,173,0.08); padding-bottom: 6px; margin-bottom: 10px; }
 
-  .site-header { background: linear-gradient(180deg,#0057b8 0%,#004aad 100%); color: #fff; padding: 26px 0; box-shadow: 0 2px 8px rgba(0,0,0,.06); }
-  .header-inner { display: flex; gap: 20px; align-items: center; justify-content: space-between; flex-wrap: wrap; }
-  .brand h1 { font-size: 1.25rem; letter-spacing: 0.6px; }
-  .motto { margin-top: 6px; opacity: 0.95; font-style: italic; }
+    /* Gallery */
+    .gallery-grid { display: grid; grid-template-columns: repeat(auto-fit,minmax(250px,1fr)); gap: 12px; margin-top: 15px; }
+    .gallery-item img { width: 100%; height: 180px; object-fit: cover; border-radius: 6px; transition: transform 0.25s ease; }
+    .gallery-item img:hover { transform: scale(1.04); }
 
-  .contact-top p { margin: 3px 0; font-size: 0.95rem; }
-  .contact-top a { color: #fff; text-decoration: underline; }
+    /* Footer */
+    .site-footer { background: #f4f6fb; color: #333; text-align: center; padding: 25px 0; border-top: 1px solid #e6eefc; margin-top: 40px; }
 
-  .site-nav { background: #003577; position: sticky; top: 0; z-index: 1200; }
-  .nav-inner { display: flex; align-items: center; justify-content: space-between; padding: 8px 0; }
-  .nav-toggle { display: none; background: transparent; color: #fff; border: none; font-size: 1.25rem; padding: 6px 10px; }
-  .nav-menu { list-style: none; display: flex; gap: 8px; align-items: center; }
-  .nav-menu a { color: #fff; text-decoration: none; padding: 10px 12px; display: block; border-radius: 6px; font-weight: 600; }
-  .nav-menu a:hover { background: rgba(255,255,255,0.08); }
+    @media(max-width:700px){ .site-nav ul{flex-direction:column;align-items:center;} }
+  </style>
+</head>
 
-  main { padding: 28px 0 60px 0; }
-  .card { background: #fff; border-radius: 8px; padding: 22px; margin-bottom: 20px; box-shadow: 0 6px 18px rgba(3, 26, 78, 0.04); }
-  .hero { text-align: center; }
-  .hero p { margin-top: 12px; }
-  .btn { display: inline-block; background: #0066d6; color: #fff; padding: 10px 16px; border-radius: 6px; text-decoration: none; font-weight: 600; }
-  .btn:hover { opacity: 0.95; }
-  .btn.ghost { background: transparent; color: #0066d6; border: 1px solid #dbeeff; margin-left: 8px; }
+<body>
+  <header class="site-header">
+    <h1>FATHER SILVIO PRE AND PRIMARY ENGLISH MEDIUM SCHOOL</h1>
+    <p class="motto">Love • Joy • Service</p>
+  </header>
 
-  .grid-3 { display: grid; grid-template-columns: repeat(3,1fr); gap: 14px; margin-top: 14px; }
-  .box { padding: 12px; border-radius: 6px; background: #fbfdff; }
-  .box h3 { color: #004aad; margin-bottom: 6px; }
+  <nav class="site-nav">
+    <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#academics">Academics</a></li>
+      <li><a href="#gallery">Gallery</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
 
-  section h2 { color: #004aad; margin-bottom: 10px; font-size: 1.15rem; border-bottom: 3px solid rgba(0,74,173,0.08); display: inline-block; padding-bottom: 6px; }
+  <main class="container">
+    <section id="home">
+      <h2>Welcome Message</h2>
+      <p>
+        Welcome to <strong>Father Silvio Pre and Primary English Medium School</strong>,
+        where education meets excellence and moral growth. We are dedicated to nurturing pupils with knowledge,
+        discipline, and faith to prepare them for a bright future.
+      </p>
+    </section>
 
-  .gallery-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 12px; margin-top: 12px; }
-  .gallery-item img { width: 100%; border-radius: 6px; height: 180px; object-fit: cover; transition: transform .25s ease; }
-  .gallery-item img:hover { transform: scale(1.03); }
+    <section id="about">
+      <h2>About Our School</h2>
+      <p>
+        Father Silvio Pasquali School, located in Mafinga, Iringa Region, Tanzania, continues the legacy of
+        Father Silvio Pasquali — a devoted missionary who believed that true education combines wisdom and service.
+        Our school provides a strong academic foundation and a nurturing environment guided by the values of Love, Joy, and Service.
+      </p>
+    </section>
 
-  .lightbox { display: none; position: fixed; inset: 0; background: rgba(2,8,23,0.8); align-items: center; justify-content: center; padding: 20px; z-index: 9999; }
-  .lightbox img { max-width: 95%; max-height: 80vh; border-radius: 6px; box-shadow: 0 8px 30px rgba(0,0,0,0.6); }
-  .lightbox-close { position: absolute; top: 18px; right: 18px; background: transparent; color: #fff; border: none; font-size: 1.4rem; }
-  .lightbox-controls { position: absolute; bottom: 28px; display: flex; gap: 12px; }
-  .lightbox-controls button { background: rgba(255,255,255,0.06); color: #fff; border: none; padding: 8px 12px; border-radius: 6px; }
+    <section id="academics">
+      <h2>Academics</h2>
+      <p>
+        We offer a balanced curriculum including English, Mathematics, Science, Social Studies, Kiswahili,
+        and Creative Arts. Our teachers are committed to guiding learners in developing their talents,
+        curiosity, and confidence.
+      </p>
+    </section>
 
-  .contact-form { margin-top: 12px; display: grid; gap: 10px; }
-  .contact-form input, .contact-form textarea { padding: 10px; border-radius: 6px; border: 1px solid #e6eefc; background: #fcfdff; }
-  .site-footer { background: #f4f6fb; color: #333; padding: 20px 0; text-align: center; border-top: 1px solid #e6eefc; }
+    <section id="gallery">
+      <h2>Photo Gallery</h2>
+      <div class="gallery-grid">
+        <!-- Replace the sample image paths below with your actual uploaded images -->
+        <div class="gallery-item"><img src="images/gallery/img1.jpg" alt="School view"></div>
+        <div class="gallery-item"><img src="images/gallery/img2.jpg" alt="Pupils in class"></div>
+        <div class="gallery-item"><img src="images/gallery/img3.jpg" alt="Playground"></div>
+        <div class="gallery-item"><img src="images/gallery/img4.jpg" alt="Teachers and students"></div>
+        <div class="gallery-item"><img src="images/gallery/img5.jpg" alt="Science class"></div>
+        <div class="gallery-item"><img src="images/gallery/img6.jpg" alt="Library"></div>
+      </div>
+    </section>
 
-  @media (max-width: 900px) {
-    .grid-3 { grid-template-columns: repeat(2,1fr); }
-    .gallery-grid { grid-template-columns: repeat(2,1fr); }
-  }
-  @media (max-width: 650px) {
-    .header-inner { flex-direction: column; align-items: flex-start; gap: 8px; }
-    .contact-top { order: 3; width: 100%; }
-    .nav-toggle { display: inline-block; }
-    .nav-menu { display: none; flex-direction: column; width: 100%; background: #003577; margin-top: 8px; padding: 8px; b
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <p><strong>Address:</strong> Mafinga, Iringa Region, Tanzania</p>
+      <p><strong>Phone:</strong> +255 788 890 96</p>
+      <p><strong>Email:</strong> frsilviopasquali22@gmail.com</p>
+      <p><strong>Working Hours:</strong> Monday – Friday, 8:00 AM – 4:00 PM</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>© 2025 Father Silvio Pre and Primary English Medium School. All rights reserved.</p>
+    <p>Designed with ❤️ by the Father Silvio School Team</p>
+  </footer>
+</body>
+</html>
