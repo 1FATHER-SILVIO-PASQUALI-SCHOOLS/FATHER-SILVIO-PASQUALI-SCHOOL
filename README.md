@@ -68,16 +68,18 @@
       <p>We offer a balanced curriculum including English, Mathematics, Science, Social Studies, Kiswahili, and Creative Arts. Our teachers are committed to guiding learners in developing their talents, curiosity, and confidence.</p>
     </section>
 
-    <section id="gallery">
-      <section id="gallery">
+  <section id="gallery">
   <h2>Photo Gallery</h2>
   <div class="gallery-grid">
     <div class="gallery-item"><img src="images/gallery/img1.jpg" alt="School view"></div>
-    <div class="gallery-item"><img src="images/gallery/img2.jpg" alt="Pupils in class"></div>
-    <div class="gallery-item"><img src="images/gallery/img3.jpg" alt="Playground"></div>
-    <div class="gallery-item"><img src="images/gallery/img4.jpg" alt="Teachers and students"></div>
-    <div class="gallery-item"><img src="images/gallery/img5.jpg" alt="Science class"></div>
-    <div class="gallery-item"><img src="images/gallery/img6.jpg" alt="Library"></div>
+    <div class="gallery-item"><img src="images/gallery/img2.jpg" alt="school staff members"></div>
+    <div class="gallery-item"><img src="images/gallery/img3.jpg" alt="school staff members"></div>
+    Update index.html with gallery images
+
+    ...
+  </div>
+</section>
+
   </div>
 </section>
 
