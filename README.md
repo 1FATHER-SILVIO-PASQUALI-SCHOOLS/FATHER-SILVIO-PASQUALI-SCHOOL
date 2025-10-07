@@ -157,7 +157,7 @@
         <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/img1.jpg?raw=true">
         <img src="images/gallery/img2.jpg" alt="school staff members">
         <img src="images/img3.jpg" alt="school staff mambers">
-        <img src="images/gallery/492844368-5f7d0c5e-8b0e-4e1b-9d8d-8e0e7a0e4e1d.jpg" alt="Teachers and students">
+        <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/img2.jpg?raw=true">
         <img src="images/gallery/492844381-7a9d1c9e-9d6e-4f3b-8c9e-9d1f8b1e9d4e.jpg" alt="Science class">
         <img src="images/gallery/492844394-9d0e2d3e-0d6e-4b3b-8b1e-0e7e9c2e0e2f.jpg" alt="Library">
       </div>
