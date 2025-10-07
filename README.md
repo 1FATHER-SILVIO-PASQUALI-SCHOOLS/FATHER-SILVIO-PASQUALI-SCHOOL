@@ -154,7 +154,7 @@
     <section id="gallery">
       <h2>Photo Gallery</h2>
       <div class="gallery-grid">
-        <img src="images/gallery/img1.jpg" alt="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/img1.jpg?raw=true">
+        <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/img1.jpg?raw=true">
         <img src="images/gallery/img2.jpg" alt="school staff members">
         <img src="images/img3.jpg" alt="school staff mambers">
         <img src="images/gallery/492844368-5f7d0c5e-8b0e-4e1b-9d8d-8e0e7a0e4e1d.jpg" alt="Teachers and students">
