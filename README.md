@@ -120,7 +120,7 @@
 <body>
 
   <header>
-    <img src="images/logo.png" alt="School Logo">
+    <img src="images/logo.jpg" alt="School Logo">
     <h1>Father Silvio Pre and Primary English Medium School</h1>
     <p class="motto">Love • Joy • Service</p>
   </header>
@@ -154,9 +154,9 @@
     <section id="gallery">
       <h2>Photo Gallery</h2>
       <div class="gallery-grid">
-        <img src="images/gallery/492844329-f07b5436-fd5d-41e0-91e1-76403d27814b.jpg" alt="School view">
-        <img src="images/gallery/492844342-86cfa9ab-3d0e-4a92-bd6e-7f1d5c8e6d9d.jpg" alt="Classroom">
-        <img src="images/gallery/492844355-3b4e2b5b-8b2e-4d8b-bb4b-1a0d8d4d8b6e.jpg" alt="Playground">
+        <img src="images/gallery/img1.jpg" alt="School view">
+        <img src="images/gallery/img2.jpg" alt="school staff members">
+        <img src="images/img3.jpg" alt="school staff mambers">
         <img src="images/gallery/492844368-5f7d0c5e-8b0e-4e1b-9d8d-8e0e7a0e4e1d.jpg" alt="Teachers and students">
         <img src="images/gallery/492844381-7a9d1c9e-9d6e-4f3b-8c9e-9d1f8b1e9d4e.jpg" alt="Science class">
         <img src="images/gallery/492844394-9d0e2d3e-0d6e-4b3b-8b1e-0e7e9c2e0e2f.jpg" alt="Library">
