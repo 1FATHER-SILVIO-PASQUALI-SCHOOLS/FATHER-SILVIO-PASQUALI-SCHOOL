@@ -156,10 +156,10 @@
       <div class="gallery-grid">
         <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/img1.jpg?raw=true">
         <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/img3.JPG?raw=true">
-        <img src="images/img3.jpg" alt="school staff mambers">
+        <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/img4.jpg?raw=true">
         <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/img2.jpg?raw=true">
-        <img src="images/gallery/492844381-7a9d1c9e-9d6e-4f3b-8c9e-9d1f8b1e9d4e.jpg" alt="Science class">
-        <img src="images/gallery/492844394-9d0e2d3e-0d6e-4b3b-8b1e-0e7e9c2e0e2f.jpg" alt="Library">
+        <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/img9.jpg?raw=true">
+        <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/img7.jpg?raw=true">
       </div>
     </section>
     <section id="contact">
