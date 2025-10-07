@@ -145,7 +145,7 @@
   <main>
     <section id="about">
       <h2>About Our School</h2>
-      <p>Father Silvio Pasquali School, located in Mafinga, Iringa Region, Tanzania, continues the legacy of Father Silvio Pasquali — a devoted missionary who believed that true education combines wisdom and service. Our school provides a strong academic foundation and a nurturing environment guided by the values of Love, Joy, and Service.</p>
+      <p>Father Silvio Pasquali School, located in Mafinga, Iringa Region, Tanzania, continues the legacy of Father Silvio Pasquali — a devoted missionary who believed that true education combines wisdom and service. Our school provides a strong academic foundation and a nurturing environment guided by the values of Love, Joy, and Service.he is the servant of God </p>
     </section>
     <section id="academics">
       <h2>Academics</h2>
