@@ -3,44 +3,181 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>FATHER SILVIO PRE AND PRIMARY ENGLISH MEDIUM SCHOOL</title>
+  <title>Father Silvio Pre and Primary English Medium School</title>
   <style>
-    /* ====== Combined CSS ====== */
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-    html, body { height: 100%; font-family: "Segoe UI", Roboto, Arial, sans-serif; color: #222; background: #f8fbff; line-height: 1.5; }
+    /* ===== RESET & BASE ===== */
+    * { box-sizing: border-box; margin: 0; padding: 0; scroll-behavior: smooth; }
+    body {
+      font-family: "Segoe UI", Roboto, Arial, sans-serif;
+      color: #222;
+      background: #f5f9ff;
+      line-height: 1.6;
+    }
+    img { display: block; max-width: 100%; }
+ /* ===== HEADER ===== */
+    header {
+      text-align: center;
+      padding: 35px 20px 20px;
+      background: linear-gradient(135deg, #004aad, #0073e6);
+      color: #fff;
+      border-bottom: 5px solid #003577;
+    }
+    header img {
+      width: 90px;
+      height: 90px;
+      object-fit: contain;
+      border-radius: 50%;
+      margin-bottom: 12px;
+    }
+    header h1 {
+      font-size: 1.8rem;
+      margin-bottom: 6px;
+      font-weight: 700;
+    }
+    header p.motto {
+      font-style: italic;
+      font-size: 1rem;
+      color: #f3f7ff;
+     /* ===== HERO SECTION ===== */
+    .hero {
+      background: url('https://images.unsplash.com/photo-1600195077909-46cf9b1b9b7d?auto=format&fit=crop&w=1600&q=80') center/cover no-repeat;
+      color: white;
+      text-align: center;
+      padding: 120px 20px;
+      position: relative;
+    }
+    .hero::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: rgba(0, 64, 128, 0.6);
+    }
+    .hero-content {
+      position: relative;
+      z-index: 2;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    .hero-content h2 {
+      font-size: 2.2rem;
+      margin-bottom: 10px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+    .hero-content p {
+      font-size: 1.1rem;
+      color: #f0f5ff;
+    }
+    /* ===== NAVIGATION ===== */
+    nav {
+      background: #003577;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+nav ul {
+      list-style: none;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin: 0;
+      padding: 0;
+    }
+    nav li { margin: 5px 10px; }
+    nav a {
+      display: block;
+      color: #fff;
+      text-decoration: none;
+      padding: 12px 18px;
+      font-weight: 600;
+      border-radius: 6px;
+      transition: background 0.3s;
+    }
+    nav a:hover {
+      background: rgba(255,255,255,0.15);
+    }
 
-    .container { width: 92%; max-width: 1100px; margin: 0 auto; }
-    header { background: linear-gradient(180deg,#0057b8 0%,#004aad 100%); color: #fff; padding: 20px 0; text-align: center; border-bottom: 4px solid #003577; }
-    header img { width: 80px; height: 80px; object-fit: contain; border-radius: 50%; margin-bottom: 10px; }
-    header h1 { font-size: 1.6rem; margin-bottom: 6px; }
-    header p.motto { font-style: italic; opacity: 0.9; }
+    /* ===== MAIN CONTENT ===== */
+    main {
+      width: 92%;
+      max-width: 1100px;
+      margin: 50px auto;
+    }
+    section {
+      background: #fff;
+      border-radius: 10px;
+      padding: 25px 30px;
+      margin-bottom: 35px;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.04);
+    }
+    section h2 {
+      color: #004aad;
+      border-left: 6px solid #ffcc00;
+      padding-left: 12px;
+      margin-bottom: 15px;
+      font-size: 1.4rem;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
 
-    nav { background: #003577; position: sticky; top: 0; z-index: 100; }
-    nav ul { list-style: none; display: flex; justify-content: center; flex-wrap: wrap; padding: 0; margin: 0; }
-    nav li { margin: 5px 12px; }
-    nav a { color: #fff; text-decoration: none; padding: 10px 16px; border-radius: 6px; font-weight: 600; }
-    nav a:hover { background: rgba(255,255,255,0.1); }
+    /* ===== GALLERY ===== */
+    .gallery-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
+      gap: 15px;
+      margin-top: 15px;
+    }
+    .gallery-grid img {
+      width: 100%;
+      height: 200px;
+      object-fit: cover;
+      border-radius: 10px;
+      box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+      transition: transform 0.3s;
+    }
+    .gallery-grid img:hover {
+      transform: scale(1.05);
+    }
 
-    main { padding: 30px 0; }
-    section { background: #fff; border-radius: 8px; padding: 20px; margin-bottom: 25px; box-shadow: 0 6px 18px rgba(3, 26, 78, 0.04); }
-    section h2 { color: #004aad; border-bottom: 3px solid rgba(0,74,173,0.08); padding-bottom: 6px; margin-bottom: 10px; }
+    /* ===== FOOTER ===== */
+    footer {
+      background: #003577;
+      color: #fff;
+      text-align: center;
+      padding: 25px 15px;
+      font-size: 0.9rem;
+      margin-top: 50px;
+    }
+    footer p {
+      margin: 5px 0;
+      opacity: 0.9;
+    }
 
-    .gallery-grid { display: grid; grid-template-columns: repeat(auto-fit,minmax(250px,1fr)); gap: 12px; margin-top: 15px; }
-    .gallery-grid img { width: 100%; height: 180px; object-fit: cover; border-radius: 6px; transition: transform 0.25s ease; }
-    .gallery-grid img:hover { transform: scale(1.04); }
-
-    footer { background: #f4f6fb; color: #333; text-align: center; padding: 25px 0; border-top: 1px solid #e6eefc; margin-top: 40px; }
-
-    @media(max-width:700px){ nav ul{flex-direction:column; align-items:center;} }
+    /* ===== RESPONSIVE ===== */
+    @media (max-width: 700px) {
+      header h1 { font-size: 1.4rem; }
+      .hero-content h2 { font-size: 1.5rem; }
+      section { padding: 20px; }
+      nav ul { flex-direction: column; align-items: center; }
+      nav a { padding: 10px 12px; }
+    }
   </style>
 </head>
 <body>
 
   <header>
     <img src="images/logo.png" alt="School Logo">
-    <h1>FATHER SILVIO PRE AND PRIMARY ENGLISH MEDIUM SCHOOL</h1>
+    <h1>Father Silvio Pre and Primary English Medium School</h1>
     <p class="motto">Love • Joy • Service</p>
   </header>
+
+  <div class="hero" id="home">
+    <div class="hero-content">
+      <h2>Welcome to Father Silvio School</h2>
+      <p>Where knowledge, discipline, and service build the leaders of tomorrow.</p>
+    </div>
+  </div>
 
   <nav>
     <ul>
@@ -52,37 +189,30 @@
     </ul>
   </nav>
 
-  <main class="container">
-    <section id="home">
-      <h2>Welcome Message</h2>
-      <p>Welcome to <strong>Father Silvio Pre and Primary English Medium School</strong>, where education meets excellence and moral growth. We are dedicated to nurturing pupils with knowledge, discipline, and faith to prepare them for a bright future.</p>
-    </section>
-
+  <main>
     <section id="about">
       <h2>About Our School</h2>
       <p>Father Silvio Pasquali School, located in Mafinga, Iringa Region, Tanzania, continues the legacy of Father Silvio Pasquali — a devoted missionary who believed that true education combines wisdom and service. Our school provides a strong academic foundation and a nurturing environment guided by the values of Love, Joy, and Service.</p>
     </section>
 
-    <section id="academics">
+   <section id="academics">
       <h2>Academics</h2>
       <p>We offer a balanced curriculum including English, Mathematics, Science, Social Studies, Kiswahili, and Creative Arts. Our teachers are committed to guiding learners in developing their talents, curiosity, and confidence.</p>
     </section>
 
- <section id="gallery">
-  <h2>Photo Gallery</h2>
-  <div class="gallery-grid">
-    <div class="gallery-item"><img src="images/gallery/492844329-f07b5436-fd5d-41e0-91e1-76403d27814b.jpg" alt="School view"></div>
-    <div class="gallery-item"><img src="images/gallery/492844342-86cfa9ab-3d0e-4a92-bd6e-7f1d5c8e6d9d.jpg" alt="Classroom"></div>
-    <div class="gallery-item"><img src="images/gallery/492844355-3b4e2b5b-8b2e-4d8b-bb4b-1a0d8d4d8b6e.jpg" alt="Playground"></div>
-    <div class="gallery-item"><img src="images/gallery/492844368-5f7d0c5e-8b0e-4e1b-9d8d-8e0e7a0e4e1d.jpg" alt="Teachers and students"></div>
-    <div class="gallery-item"><img src="images/gallery/492844381-7a9d1c9e-9d6e-4f3b-8c9e-9d1f8b1e9d4e.jpg" alt="Science class"></div>
-    <div class="gallery-item"><img src="images/gallery/492844394-9d0e2d3e-0d6e-4b3b-8b1e-0e7e9c2e0e2f.jpg" alt="Library"></div>
-  </div>
-</section>
+   <section id="gallery">
+      <h2>Photo Gallery</h2>
+      <div class="gallery-grid">
+        <img src="images/gallery/492844329-f07b5436-fd5d-41e0-91e1-76403d27814b.jpg" alt="School view">
+        <img src="images/gallery/492844342-86cfa9ab-3d0e-4a92-bd6e-7f1d5c8e6d9d.jpg" alt="Classroom">
+        <img src="images/gallery/492844355-3b4e2b5b-8b2e-4d8b-bb4b-1a0d8d4d8b6e.jpg" alt="Playground">
+        <img src="images/gallery/492844368-5f7d0c5e-8b0e-4e1b-9d8d-8e0e7a0e4e1d.jpg" alt="Teachers and students">
+        <img src="images/gallery/492844381-7a9d1c9e-9d6e-4f3b-8c9e-9d1f8b1e9d4e.jpg" alt="Science class">
+        <img src="images/gallery/492844394-9d0e2d3e-0d6e-4b3b-8b1e-0e7e9c2e0e2f.jpg" alt="Library">
+      </div>
+    </section>
 
-
-
-    <section id="contact">
+  <section id="contact">
       <h2>Contact Us</h2>
       <p><strong>Address:</strong> Mafinga, Iringa Region, Tanzania</p>
       <p><strong>Phone:</strong> +255 788 890 96</p>
@@ -98,3 +228,4 @@
 
 </body>
 </html>
+
