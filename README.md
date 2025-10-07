@@ -98,7 +98,7 @@ nav ul {
       background: rgba(255,255,255,0.15);
     }
 
-    /* ===== MAIN CONTENT ===== */
+   /* ===== MAIN CONTENT ===== */
     main {
       width: 92%;
       max-width: 1100px;
@@ -121,7 +121,7 @@ nav ul {
       letter-spacing: 0.5px;
     }
 
-    /* ===== GALLERY ===== */
+  /* ===== GALLERY ===== */
     .gallery-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
@@ -140,7 +140,7 @@ nav ul {
       transform: scale(1.05);
     }
 
-    /* ===== FOOTER ===== */
+/* ===== FOOTER ===== */
     footer {
       background: #003577;
       color: #fff;
@@ -154,7 +154,7 @@ nav ul {
       opacity: 0.9;
     }
 
-    /* ===== RESPONSIVE ===== */
+  /* ===== RESPONSIVE ===== */
     @media (max-width: 700px) {
       header h1 { font-size: 1.4rem; }
       .hero-content h2 { font-size: 1.5rem; }
@@ -167,7 +167,7 @@ nav ul {
 <body>
 
   <header>
-    <img src="images/logo.png" alt="School Logo">
+    <img src="[images/logo.png](https://raw.githubusercontent.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/af81feede23a79e225ed1c2881e5d7bf03705cf5/logo/logo.png)" alt="School Logo">
     <h1>Father Silvio Pre and Primary English Medium School</h1>
     <p class="motto">Love • Joy • Service</p>
   </header>
