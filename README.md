@@ -145,10 +145,11 @@
   <main>
     <section id="about">
       <h2>About Our School</h2>
-      <p>WHO WE ARE 
+      <p> WHO WE ARE 
         Father Silvio Pasquali School, located in Mafinga, Iringa Region, Tanzania, continues the legacy of Father Silvio Pasquali — a devoted missionary who believed that true education combines wisdom and service. Our school provides a strong academic foundation and a nurturing environment guided by the values of Love, Joy, and Service.The school is on spacious compound and afford beautiful scenery of the green country side. The location is served by electricity, clean piped water internet access and cellular services. We welcome parents and students to visit our school and talk to our Management and committed Staff. Also to observe our cool beautiful environment that make Fr. Silvio school of its own kind
-      OUR VISION AND MISSION
-     Fr. Silvio Pasquali Pre & Primary ,School is committed in helping all students realize their full potential ,to build a strong nation of intellectuals with moral strength and social responsibility through holistic education. We endeavor to provide a healthy atmosphere for mental, social, emotional and spiritual development. We also aim at enhancing a sense of morality, social obligations and responsibilities. The statement of our mission comes from Our school motto: “Love,  Joy and Service ” This commits us to model and nurture qualities such as patriotism, curiosity, honesty, adaptability, sense of hard work, resourcefulness, creativity, hope, justice and self -discipline; which will adequately prepare younger to cope with the challenges of a rapidly changing world.
+      <section id="about">
+        <h2> OUR VISION AND MISSION</h2> 
+            Fr. Silvio Pasquali Pre & Primary ,School is committed in helping all students realize their full potential ,to build a strong nation of intellectuals with moral strength and social responsibility through holistic education. We endeavor to provide a healthy atmosphere for mental, social, emotional and spiritual development. We also aim at enhancing a sense of morality, social obligations and responsibilities. The statement of our mission comes from Our school motto: “Love,  Joy and Service ” This commits us to model and nurture qualities such as patriotism, curiosity, honesty, adaptability, sense of hard work, resourcefulness, creativity, hope, justice and self -discipline; which will adequately prepare younger to cope with the challenges of a rapidly changing world.
       HEALTH AND MEDICAL WELFARE
         The health and general welfare of our students has always been given the most high and special priority at all times. We have a qualified nurse within the school who will offer fist aid to sick students before the are taken to hospital for check-up and treatment. 
         MANAGEMENT
