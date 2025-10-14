@@ -168,7 +168,9 @@ The school has a team of committed, dynamic, efficient and qualified teachers, w
         <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/img2.jpg?raw=true">
         <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/img9.jpg?raw=true">
         <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/img7.jpg?raw=true">
+        <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/images/gallery/580A0802.jpg?raw=true">
       </div>
+      
       <img src="https://private-user-images.githubusercontent.com/233971011/497059835-f561a8da-e657-4d0d-b003-9a1df25454ef.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk4MzE0MDEsIm5iZiI6MTc1OTgzMTEwMSwicGF0aCI6Ii8yMzM5NzEwMTEvNDk3MDU5ODM1LWY1NjFhOGRhLWU2NTctNGQwZC1iMDAzLTlhMWRmMjU0NTRlZi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAwN1QwOTU4MjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMGE3ZjI2ZGU4MWQwMTRmYjFlODdjOGQ1MWYwZTgzZjU5YWI3MWI1NDEzN2VkOWMwMGExYjVmZjM2ZTAyYjNlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ZDKB4Zh4hxguy_7ziMMHuhoEbStQnOQVv04gIpaAZnY">
       </div>
     </section>
