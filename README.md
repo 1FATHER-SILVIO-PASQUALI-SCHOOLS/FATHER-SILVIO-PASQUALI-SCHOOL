@@ -170,7 +170,7 @@ The school has a team of committed, dynamic, efficient and qualified teachers, w
       <div class="gallery-grid">
         <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/img1.jpg?raw=true">
         <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/img4.jpg?raw=true">
-         <img src="![ga-2](https://github.com/user-attachments/assets/7eb6d0ed-ff08-411d-89a2-22fc66f4149d)">       
+         <img src="![ga-2](https://github.com/user-attachments/assets/a763a67f-10d6-41c9-836c-48b93b6940ef)">       
         <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/img7.jpg?raw=true">
         <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/images/gallery/580A0802.jpg?raw=true">
       </div>
