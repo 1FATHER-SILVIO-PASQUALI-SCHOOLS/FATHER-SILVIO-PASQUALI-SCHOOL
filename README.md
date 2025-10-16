@@ -163,7 +163,7 @@
 
 <header>
   <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/logo.jpg?raw=true" alt="School Logo" />
-  <h1>Father Silvio Pre and Primary English Medium School</h1>
+  <h1>FATHER SILVIO PASQUALI PRE AND PRIMARY ENGLISH MEDIUM SCHOOL</h1>
   <p class="motto">Love • Joy • Service</p>
 </header>
 
@@ -186,7 +186,7 @@
 
 <main>
   <section id="about">
-    <h2>About Our School</h2>
+    <h2>ABOUT OUR SCHOOL</h2>
     <h3>WHO WE ARE</h3>
     <p>Father Silvio Pasquali School, located in Mafinga, Iringa Region, Tanzania, continues the legacy of Father Silvio Pasquali — a devoted missionary who believed that true education combines wisdom and service. Our school provides a strong academic foundation and a nurturing environment guided by the values of Love, Joy, and Service. The school is on spacious compound and affords beautiful scenery of the green countryside. The location is served by electricity, clean piped water internet access and cellular services. We welcome parents and students to visit our school and talk to our Management and committed Staff. Also to observe our cool beautiful environment that make Fr. Silvio school of its own kind.</p>
     <h3>OUR VISION AND MISSION</h3>
@@ -198,7 +198,7 @@
   </section>
 
   <section id="academics">
-    <h2>Academics</h2>
+    <h2>ACADEMICS</h2>
     <p>We offer a balanced curriculum including English, Mathematics, Science, Social Studies, Kiswahili, and Creative Arts. Our teachers are committed to guiding learners in developing their talents, curiosity, and confidence.</p>
   </section>
 
