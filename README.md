@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Father Silvio Pre and Primary English Medium School</title>
   <style>
     /* ===== RESET & BASE ===== */
@@ -73,13 +73,21 @@
       box-shadow: 0 6px 18px rgba(0,0,0,0.04);
     }
     section h2 {
-      color: #004aad;
+      color: red;  /* Changed from #004aad to red */
       border-left: 6px solid #ffcc00;
       padding-left: 12px;
       margin-bottom: 15px;
       font-size: 1.4rem;
       text-transform: uppercase;
       letter-spacing: 0.5px;
+    }
+    section h3 {
+      color: red; /* New addition for h3 headings */
+      margin-top: 30px;
+      font-size: 1.2rem;
+      letter-spacing: 0.5px;
+      border-left: 4px solid #ffcc00;
+      padding-left: 10px;
     }
     /* ===== GALLERY ===== */
     .gallery-grid {
@@ -120,7 +128,7 @@
 <body>
 
   <header>
-    <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/logo.jpg?raw=true">
+    <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/logo.jpg?raw=true" alt="School Logo" />
     <h1>Father Silvio Pre and Primary English Medium School</h1>
     <p class="motto">Love • Joy • Service</p>
   </header>
@@ -149,17 +157,21 @@
          <h2>WHO WE ARE </h2>
       <p> 
  Father Silvio Pasquali School, located in Mafinga, Iringa Region, Tanzania, continues the legacy of Father Silvio Pasquali — a devoted missionary who believed that true education combines wisdom and service. Our school provides a strong academic foundation and a nurturing environment guided by the values of Love, Joy, and Service.The school is on spacious compound and afford beautiful scenery of the green country side. The location is served by electricity, clean piped water internet access and cellular services. We welcome parents and students to visit our school and talk to our Management and committed Staff. Also to observe our cool beautiful environment that make Fr. Silvio school of its own kind
+      </p>
       <section id="about">
         <h2> OUR VISION AND MISSION</h2> 
- Fr. Silvio Pasquali Pre & Primary ,School is committed in helping all students realize their full potential ,to build a strong nation of intellectuals with moral strength and social responsibility through holistic education. We endeavor to provide a healthy atmosphere for mental, social, emotional and spiritual development. We also aim at enhancing a sense of morality, social obligations and responsibilities. The statement of our mission comes from Our school motto: “Love,  Joy and Service ” This commits us to model and nurture qualities such as patriotism, curiosity, honesty, adaptability, sense of hard work, resourcefulness, creativity, hope, justice and self -discipline; which will adequately prepare younger to cope with the challenges of a rapidly changing world.
+      <p>Fr. Silvio Pasquali Pre & Primary ,School is committed in helping all students realize their full potential ,to build a strong nation of intellectuals with moral strength and social responsibility through holistic education. We endeavor to provide a healthy atmosphere for mental, social, emotional and spiritual development. We also aim at enhancing a sense of morality, social obligations and responsibilities. The statement of our mission comes from Our school motto: “Love, Joy and Service” This commits us to model and nurture qualities such as patriotism, curiosity, honesty, adaptability, sense of hard work, resourcefulness, creativity, hope, justice and self -discipline; which will adequately prepare younger to cope with the challenges of a rapidly changing world.</p>
          <section id="about">
             <h2> HEALTH AND MEDICAL WELFARE </h2>      
-        The health and general welfare of our students has always been given the most high and special priority at all times. We have a qualified nurse within the school who will offer first aid to sick students before the are taken to hospital for check-up 
-        and treatment. 
+        <p>The health and general welfare of our students has always been given the most high and special priority at all times. We have a qualified nurse within the school who will offer first aid to sick students before the are taken to hospital for check-up 
+        and treatment.</p> 
          <section id="about">
             <h2>  MANAGEMENT </h2>      
- Fr. Silvio Pasquali Pre & Primary school    is catholic institution established in the year 2013 and administered by the congregation of Catechist Sisters of St.Ann
-The school has a team of committed, dynamic, efficient and qualified teachers, who lay strong foundation for a strong Nation. Besides academic excellence, the school gives importance to discipline and character and caters to the all development of the students in all aspects of life.
+      <p>Fr. Silvio Pasquali Pre & Primary school is catholic institution established in the year 2013 and administered by the congregation of Catechist Sisters of St.Ann. The school has a team of committed, dynamic, efficient and qualified teachers, who lay strong foundation for a strong Nation. Besides academic excellence, the school gives importance to discipline and character and caters to the all development of the students in all aspects of life.</p>
+    </section>
+    </section>
+    </section>
+    </section>
     </section>
     <section id="academics">
       <h2>Academics</h2>
@@ -167,15 +179,25 @@ The school has a team of committed, dynamic, efficient and qualified teachers, w
     </section>
     <section id="gallery">
       <h2>Photo Gallery</h2>
+      <h3>Sports and Games</h3>
       <div class="gallery-grid">
-        <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/img1.jpg?raw=true">
-        <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/img4.jpg?raw=true">
-         <img src="![ga-2](https://github.com/user-attachments/assets/a763a67f-10d6-41c9-836c-48b93b6940ef)">       
-        <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/img7.jpg?raw=true">
-        <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/images/gallery/580A0802.jpg?raw=true">
+        <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/sports1.jpg?raw=true" alt="Sports 1" />
+        <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/sports2.jpg?raw=true" alt="Sports 2" />
       </div>
-      
-      <img src="https://private-user-images.githubusercontent.com/233971011/497059835-f561a8da-e657-4d0d-b003-9a1df25454ef.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk4MzE0MDEsIm5iZiI6MTc1OTgzMTEwMSwicGF0aCI6Ii8yMzM5NzEwMTEvNDk3MDU5ODM1LWY1NjFhOGRhLWU2NTctNGQwZC1iMDAzLTlhMWRmMjU0NTRlZi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAwN1QwOTU4MjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMGE3ZjI2ZGU4MWQwMTRmYjFlODdjOGQ1MWYwZTgzZjU5YWI3MWI1NDEzN2VkOWMwMGExYjVmZjM2ZTAyYjNlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ZDKB4Zh4hxguy_7ziMMHuhoEbStQnOQVv04gIpaAZnY">
+      <h3>Academic Study Tours</h3>
+      <div class="gallery-grid">
+        <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/tour1.jpg?raw=true" alt="Tour 1" />
+        <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/tour2.jpg?raw=true" alt="Tour 2" />
+      </div>
+      <h3>Charity Celebrations</h3>
+      <div class="gallery-grid">
+        <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/charity1.jpg?raw=true" alt="Charity 1" />
+        <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/charity2.jpg?raw=true" alt="Charity 2" />
+      </div>
+      <h3>Seminary</h3>
+      <div class="gallery-grid">
+        <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/seminary1.jpg?raw=true" alt="Seminary 1" />
+        <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/seminary2.jpg?raw=true" alt="Seminary 2" />
       </div>
     </section>
     <section id="contact">
@@ -183,4 +205,13 @@ The school has a team of committed, dynamic, efficient and qualified teachers, w
       <p><strong>Address:</strong> Mafinga, Iringa Region, Tanzania</p>
       <p><strong>Phone:</strong> +255 788 890 96</p>
       <p><strong>Email:</strong> frsilviopasquali22@gmail.com</p>
-      <p><strong>Working Hours:</strong> Monday – Friday, 8:00 AM –
+      <p><strong>Working Hours:</strong> Monday – Friday, 8:00 AM –</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Father Silvio Pre and Primary English Medium School. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
