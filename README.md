@@ -233,7 +233,15 @@
       <a class="next" onclick="plusSlides('studyTour', 1)">&#10095;</a>
       <div class="caption">Study Tour Gallery</div>
     </div>
-    <h3>Charity Celebrations</h3>
+    <h3>Celebrations</h3>
+   <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/20250913_115515.jpg?raw=true" alt="Charity 1" />
+      <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/20250913_123057.jpg?raw=true" alt="Charity 2" />
+       <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/580A0802.jpg?raw=true" alt="Charity 2" />
+       <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/IMG_20250725_125334_1.jpg?raw=true" alt="Charity 2" />
+       <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/IMG_20250725_125443_1.jpg?raw=true" alt="Charity 2" />
+       <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/DSC_0199.jpg?raw=true" alt="Charity 2" />
+       <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/DSC_0170.jpg?raw=true" alt="Charity 2" />
+     <h3>charity</h3>
     <div class="slideshow-container" id="charity-slideshow">
       <img class="slides" src="gallery/charity-celebrations/charity1.jpg" alt="Charity 1" />
       <img class="slides" src="gallery/charity-celebrations/charity2.jpg" alt="Charity 2" />
