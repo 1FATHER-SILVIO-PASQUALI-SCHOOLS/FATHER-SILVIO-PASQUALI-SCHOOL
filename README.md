@@ -206,9 +206,10 @@
     <h2>Photo Gallery</h2>
     <h3>Sports and Games</h3>
     <div class="slideshow-container" id="sports-slideshow">
-      <img class="slides" src="gallery/sports-and-games/sports1.jpg" alt="Sports 1" />
-      <img class="slides" src="gallery/sports-and-games/sports2.jpg" alt="Sports 2" />
-      <!-- Add more sport images as necessary -->
+      <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/IMG-20231015-WA0014.jpg?raw=true" alt="Sports 1" />
+      <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/IMG-20250430-WA0260.jpg?raw=true" />
+      <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/IMG-20250430-WA0267.jpg?raw=true" alt="Sports 2" />
+        <!-- Add more sport images as necessary -->
       <a class="prev" onclick="plusSlides('sports', -1)">&#10094;</a>
       <a class="next" onclick="plusSlides('sports', 1)">&#10095;</a>
       <div class="caption">Sports and Games Gallery</div>
