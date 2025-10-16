@@ -264,8 +264,10 @@
     </div>
     <h3>Seminary Gallery</h3>
     <div class="slideshow-container" id="seminary-slideshow">
-      <img class="slides" src="gallery/seminary/seminary1.jpg" alt="Seminary 1" />
-      <img class="slides" src="gallery/seminary/seminary2.jpg" alt="Seminary 2" />
+      <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/IMG_20250724_095921.jpg?raw=true" alt="Seminary 1" />
+      <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/s1.jpg?raw=true" alt="Seminary 2" />
+      <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/s5.jpg?raw=true" alt="Seminary 2" />
+      <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/se.jpg?raw=true" alt="Seminary 2" />
       <!-- Add more seminary images -->
       <a class="prev" onclick="plusSlides('seminary', -1)">&#10094;</a>
       <a class="next" onclick="plusSlides('seminary', 1)">&#10095;</a>
