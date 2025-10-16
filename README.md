@@ -28,7 +28,7 @@
     header p.motto { font-style: italic; font-size: 1rem; color: #f3f7ff; }
     /* ===== HERO ===== */
     .hero {
-      background: url('https://images.unsplash.com/photo-1600195077909-46cf9b1b9b7d?auto=format&fit=crop&w=1600&q=80') center/cover no-repeat;
+      background: url('https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/school%20environment.jpg?raw=true') center/cover no-repeat;
       color: white;
       text-align: center;
       padding: 120px 20px;
