@@ -254,8 +254,9 @@
        <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/DSC_0170.jpg?raw=true" alt="Charity 2" />
      <h3>charity</h3>
     <div class="slideshow-container" id="charity-slideshow">
-      <img class="slides" src="gallery/charity-celebrations/charity1.jpg" alt="Charity 1" />
-      <img class="slides" src="gallery/charity-celebrations/charity2.jpg" alt="Charity 2" />
+      <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/c-1.jpg?raw=true" alt="Charity 1" />
+      <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/s2.jpg?raw=true" alt="Charity 2" />
+      <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/so.jpg?raw=true" alt="Charity 2" />
       <!-- Add more charity images -->
       <a class="prev" onclick="plusSlides('charity', -1)">&#10094;</a>
       <a class="next" onclick="plusSlides('charity', 1)">&#10095;</a>
