@@ -215,8 +215,10 @@
     </div>
     <h3>Academic Gallery</h3>
     <div class="slideshow-container" id="academic-slideshow">
-      <img class="slides" src="gallery/academic/academic1.jpg" alt="Academic 1" />
-      <img class="slides" src="gallery/academic/academic2.jpg" alt="Academic 2" />
+      <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/2023-03-10%2020230309_132711.jpg?raw=true" alt="Academic 1" />
+      <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/D.jpg?raw=true" alt="Academic 2" />
+        <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/IMG-20231015-WA0004.jpg?raw=true" alt="Academic 2" />
+        <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/IMG-20231015-WA0005.jpg?raw=true" alt="Academic 2" />
       <!-- Add more academic images as necessary -->
       <a class="prev" onclick="plusSlides('academic', -1)">&#10094;</a>
       <a class="next" onclick="plusSlides('academic', 1)">&#10095;</a>
