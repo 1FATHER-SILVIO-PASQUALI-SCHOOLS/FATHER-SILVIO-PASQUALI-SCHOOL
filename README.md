@@ -226,8 +226,19 @@
     </div>
     <h3>Study Tour Gallery</h3>
     <div class="slideshow-container" id="study-tour-slideshow">
-      <img class="slides" src="gallery/study-tour/study-tour1.jpg" alt="Study Tour 1" />
-      <img class="slides" src="gallery/study-tour/study-tour2.jpg" alt="Study Tour 2" />
+      <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/K.jpg?raw=true" alt="Study Tour 1" />
+      <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/L.jpg?raw=true" alt="Study Tour 2" />
+       <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/w.jpg?raw=true" />
+       <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/580A0802.jpg?raw=true" alt="Study Tour 2" />
+       <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/st.jpg?raw=true" alt="Study Tour 2" />
+       <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/s4.jpg?raw=true" alt="Study Tour 2" />
+       <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/N.jpg?raw=true" alt="Study Tour 2" />
+       <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/M.jpg?raw=true" alt="Study Tour 2" />
+       <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/J.jpg?raw=true" alt="Study Tour 2" />
+      <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/I.jpg?raw=true" />
+      <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/A.jpg?raw=true" alt="Study Tour 2" />
+      <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/B.jpg?raw=true" alt="Study Tour 2" />
+      <img class="slides" src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/C.jpg?raw=true" alt="Study Tour2" />
       <!-- Add more study tour images as necessary -->
       <a class="prev" onclick="plusSlides('studyTour', -1)">&#10094;</a>
       <a class="next" onclick="plusSlides('studyTour', 1)">&#10095;</a>
