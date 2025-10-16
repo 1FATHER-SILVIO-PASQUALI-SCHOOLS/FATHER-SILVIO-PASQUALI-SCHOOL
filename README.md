@@ -120,7 +120,7 @@
 <body>
 
   <header>
-    <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/logo/logo.png?raw=true">
+    <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/logo.jpg?raw=true">
     <h1>Father Silvio Pre and Primary English Medium School</h1>
     <p class="motto">Love • Joy • Service</p>
   </header>
