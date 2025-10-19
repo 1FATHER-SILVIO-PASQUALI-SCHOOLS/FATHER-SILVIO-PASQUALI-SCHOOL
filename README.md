@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Father Silvio Pre and Primary English Medium School</title>
+  <title>Father Silvio Pasquali  Pre and Primary English Medium School</title>
   <style>
     /* ===== RESET & BASE ===== */
     * { box-sizing: border-box; margin: 0; padding: 0; scroll-behavior: smooth; }
