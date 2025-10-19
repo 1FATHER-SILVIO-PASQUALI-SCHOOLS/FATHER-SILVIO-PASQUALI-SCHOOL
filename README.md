@@ -162,7 +162,8 @@
 <body>
 
 <header>
-  <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/logo.jpg?raw=true" alt="School Logo" />
+  <img src="https://github.com/1FATHER-SILVIO-PASQUALI-SCHOOLS/FATHER-SILVIO-PASQUALI-SCHOOL/blob/main/gallery/images/logo.jpg?raw=true" alt="![LOGO](https://github.com/user-attachments/assets/55a49f37-1c98-4543-b027-2e902c0a8e85)
+" />
   <h1>FATHER SILVIO PASQUALI PRE AND PRIMARY ENGLISH MEDIUM SCHOOL</h1>
   <p class="motto">Love • Joy • Service</p>
 </header>
